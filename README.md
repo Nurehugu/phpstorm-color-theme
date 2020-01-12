@@ -1,6 +1,6 @@
-# One Dark Atom color theme for Jetbrains PhpStorm
+# One Dark Atom color theme for Jetbrains PhpStorm.
 
-Screenshots
+Screenshot
 ---------
 ![](images/phpstorm-one-dark.jpg)
 
@@ -21,4 +21,4 @@ Installation
 
 3. Restart PhpStorm
 
-4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark Atom.
+4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark Atom
