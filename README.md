@@ -9,9 +9,9 @@ Installation
 ---------
 
 1. Install the plugin [One Dark theme](https://one-dark.gitbook.io/jetbrains/the-basics/installation)
-  - Go to Preferences | Plugins | Marketplace and search for One Dark theme
-  - Install the plugin
-  - When prompted, restart your IDE
+  - Go to Preferences | Plugins | Marketplace and search for One Dark theme.
+  - Install the plugin.
+  - When prompted, restart your IDE.
   - Go to Preferences | Appearance & Behavior | Appearance and select one of the new themes in the theme dropdown.
 
 2.  Copy `One Dark Atom.icls` to your PhpStorm preferences:
