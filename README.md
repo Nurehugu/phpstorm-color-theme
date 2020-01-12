@@ -19,6 +19,6 @@ Installation
   - On Mac it is in `~/Library/Preferences/WebIde<version>0/colors`.
   - On Windows it is in `C:\Users\<username>\.WebIde<version>0\config\colors`.
 
-3. Restart PhpStorm
+3. Restart PhpStorm.
 
-4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark Atom
+4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark Atom.
