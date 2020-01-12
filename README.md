@@ -21,4 +21,4 @@ Installation
 
 3. Restart PhpStorm
 
-4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark.
+4. Go to `Preferences | Editor | Colors & Fonts` and select One Dark Atom.
