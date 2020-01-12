@@ -1,2 +1,1 @@
-# phpstorm-color-theme
-One Dark Atom color theme for PhpStorm
+# One Dark Atom color theme for PhpStorm
