@@ -1,10 +1,10 @@
 <scheme name="One Dark Atom Max Compliance" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-01-11T14:42:15</property>
+    <property name="created">2020-01-13T17:39:28</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-01-11T14:42:52</property>
-    <property name="originalScheme">One Dark</property>
+    <property name="modified">2020-01-13T17:39:51</property>
+    <property name="originalScheme">One Dark Atom Max Compliance</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
@@ -1245,6 +1245,12 @@
     <option name="PHP_CLASS">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
+      </value>
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5c6370" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_DOC_COMMENT_ID">
